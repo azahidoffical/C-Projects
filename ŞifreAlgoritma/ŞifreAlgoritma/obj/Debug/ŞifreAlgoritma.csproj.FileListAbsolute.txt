@@ -1,0 +1,21 @@
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.exe.config
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.exe
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.pdb
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.AssemblyReference.cache
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.Form1.resources
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.Properties.Resources.resources
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.GenerateResource.cache
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.exe
+C:\Users\azahi\Desktop\C# forms ders\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.pdb
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.exe.config
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.exe
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\bin\Debug\ŞifreAlgoritma.pdb
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.AssemblyReference.cache
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.exe.config
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.Form1.resources
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.Properties.Resources.resources
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.GenerateResource.cache
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.exe
+C:\Users\azahi\Desktop\2024-2025 Görsel Programlama 1 Notları\ŞifreAlgoritma\ŞifreAlgoritma\obj\Debug\ŞifreAlgoritma.pdb

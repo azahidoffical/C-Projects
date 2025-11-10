@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ŞifreAlgoritma", "ŞifreAlgoritma\ŞifreAlgoritma.csproj", "{53DAF91C-2E4B-4692-B829-B89B76FEDFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53DAF91C-2E4B-4692-B829-B89B76FEDFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DAF91C-2E4B-4692-B829-B89B76FEDFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DAF91C-2E4B-4692-B829-B89B76FEDFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DAF91C-2E4B-4692-B829-B89B76FEDFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E245DA-5357-474D-B772-4850AAF850FB}
+	EndGlobalSection
+EndGlobal

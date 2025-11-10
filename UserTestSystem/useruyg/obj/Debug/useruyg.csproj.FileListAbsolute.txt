@@ -1,0 +1,13 @@
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\bin\Debug\useruyg.exe.config
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\bin\Debug\useruyg.exe
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\bin\Debug\useruyg.pdb
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.csproj.AssemblyReference.cache
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.Form1.resources
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.Properties.Resources.resources
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.csproj.GenerateResource.cache
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.csproj.CoreCompileInputs.cache
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.exe
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.pdb
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.exe.config
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.Form2.resources
+C:\Users\azahi\Desktop\C# forms ders\useruyg\useruyg\obj\Debug\useruyg.Resource1.resources
